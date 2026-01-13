@@ -18,7 +18,7 @@ const content = {
     story: {
       label: 'Origin Story',
       title: 'Born From a Traveler\'s Frustration',
-      text1: 'As a Belgian living in Mexico City, I kept looking for something authentic to bring back. Something well-designed. Something I'd be proud to wear.',
+      text1: 'As a Belgian living in Mexico City, I kept looking for something authentic to bring back. Something well-designed. Something I\'d be proud to wear.',
       text2: 'All I found were cliché tourist tees that felt cheap and uninspired.',
       text3: 'So we created Atelier Roma: wearable cultural objects that honor the place without compromising on design.',
       text4: 'For travelers. By travelers.'
@@ -80,19 +80,19 @@ const content = {
       contact: 'Contacto'
     },
     hero: {
-      title: 'El Souvenir Que Sí Usarás',
-      subtitle: 'Diseñado en México para viajeros que buscan significado, no mercado masivo.'
+      title: 'El Souvenir Que Si Usaras',
+      subtitle: 'Disenado en Mexico para viajeros que buscan significado, no mercado masivo.'
     },
     story: {
       label: 'Historia de Origen',
-      title: 'Nació de la Frustración de un Viajero',
-      text1: 'Como belga viviendo en la Ciudad de México, siempre buscaba algo auténtico para llevar. Algo bien diseñado. Algo que me enorgulleciera usar.',
-      text2: 'Solo encontraba playeras turísticas cliché que se sentían baratas y poco inspiradas.',
-      text3: 'Así creamos Atelier Roma: objetos culturales vestibles que honran el lugar sin comprometer el diseño.',
+      title: 'Nacio de la Frustracion de un Viajero',
+      text1: 'Como belga viviendo en la Ciudad de Mexico, siempre buscaba algo autentico para llevar. Algo bien disenado. Algo que me enorgulleciera usar.',
+      text2: 'Solo encontraba playeras turisticas cliche que se sentian baratas y poco inspiradas.',
+      text3: 'Asi creamos Atelier Roma: objetos culturales vestibles que honran el lugar sin comprometer el diseno.',
       text4: 'Para viajeros. Por viajeros.'
     },
     why: {
-      label: 'Por Qué los Viajeros nos Eligen',
+      label: 'Por Que los Viajeros nos Eligen',
       title: 'No es un Souvenir. Es un Recuerdo que Usas.',
       reason1: {
         title: 'Culturalmente Auténtico',
