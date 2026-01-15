@@ -17,11 +17,11 @@ const content = {
     },
     story: {
       label: 'Origin Story',
-      title: 'Born From a Traveler\'s Frustration',
-      text1: 'As a Belgian living in Mexico City, I kept looking for something authentic to bring back. Something well-designed. Something I\'d be proud to wear.',
-      text2: 'All I found were cliché tourist tees that felt cheap and uninspired.',
-      text3: 'So we created Atelier Roma: wearable cultural objects that honor the place without compromising on design.',
-      text4: 'For travelers. By travelers.'
+      title: 'Inspired by Mexico\'s Cultural Richness',
+      text1: 'Mexico City has an extraordinary cultural wealth—its neighborhoods, street energy, craftsmanship, and creative spirit are unmatched.',
+      text2: 'We saw an opportunity to translate that richness into contemporary design: pieces that capture the essence of the place while honoring its authenticity.',
+      text3: 'Atelier Roma was born from a love for this city and a desire to create wearable cultural objects that travelers could carry with them—not as souvenirs, but as memories they\'re proud to wear.',
+      text4: 'Design that honors. Culture that travels.'
     },
     why: {
       label: 'Why Travelers Choose Us',
@@ -85,11 +85,11 @@ const content = {
     },
     story: {
       label: 'Historia de Origen',
-      title: 'Nacio de la Frustracion de un Viajero',
-      text1: 'Como belga viviendo en la Ciudad de Mexico, siempre buscaba algo autentico para llevar. Algo bien disenado. Algo que me enorgulleciera usar.',
-      text2: 'Solo encontraba playeras turisticas cliche que se sentian baratas y poco inspiradas.',
-      text3: 'Asi creamos Atelier Roma: objetos culturales vestibles que honran el lugar sin comprometer el diseno.',
-      text4: 'Para viajeros. Por viajeros.'
+      title: 'Inspirado por la Riqueza Cultural de México',
+      text1: 'La Ciudad de México tiene una riqueza cultural extraordinaria: sus barrios, su energía callejera, su artesanía y su espíritu creativo son inigualables.',
+      text2: 'Vimos la oportunidad de traducir esa riqueza en diseño contemporáneo: piezas que capturan la esencia del lugar mientras honran su autenticidad.',
+      text3: 'Atelier Roma nació del amor por esta ciudad y el deseo de crear objetos culturales vestibles que los viajeros puedan llevar consigo—no como souvenirs, sino como recuerdos que usan con orgullo.',
+      text4: 'Diseño que honra. Cultura que viaja.'
     },
     why: {
       label: 'Por Que los Viajeros nos Eligen',
