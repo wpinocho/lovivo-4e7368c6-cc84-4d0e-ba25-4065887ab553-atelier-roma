@@ -222,7 +222,7 @@ export default function Index() {
         
         <div className="container mx-auto px-6 lg:px-12 py-24 relative z-10">
           <div className="max-w-5xl">
-            <h1 className="editorial-heading text-foreground mb-6">The Clothing Souvenir You'll Actually Wear{t.hero.title}
+            <h1 className="editorial-heading text-foreground mb-6">El Souvenir Que Si Usaras{t.hero.title}
             </h1>
             <p className="brand-text text-foreground/80 max-w-2xl">Designed in Mexico for travelers who want meaning, not mass market.{t.hero.subtitle}
             </p>
