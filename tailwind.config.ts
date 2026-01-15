@@ -18,6 +18,23 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				'dm-sans': ['"DM Sans"', 'sans-serif'],
+				'inter': ['Inter', 'sans-serif'],
+				'lato': ['Lato', 'sans-serif'],
+				'lora': ['Lora', 'serif'],
+				'merriweather': ['Merriweather', 'serif'],
+				'montserrat': ['Montserrat', 'sans-serif'],
+				'nunito': ['Nunito', 'sans-serif'],
+				'open-sans': ['"Open Sans"', 'sans-serif'],
+				'playfair': ['"Playfair Display"', 'serif'],
+				'jakarta': ['"Plus Jakarta Sans"', 'sans-serif'],
+				'poppins': ['Poppins', 'sans-serif'],
+				'raleway': ['Raleway', 'sans-serif'],
+				'roboto': ['Roboto', 'sans-serif'],
+				'space-grotesk': ['"Space Grotesk"', 'sans-serif'],
+				'work-sans': ['"Work Sans"', 'sans-serif'],
+			},
 			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
